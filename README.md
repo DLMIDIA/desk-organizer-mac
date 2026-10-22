@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Desk Organizer Mac Banner" width="100%">
+</p>
+
 # 🧹 Desk Organizer Mac — Organizador Inteligente de Mesa & Downloads
 
 > **Automação inteligente e nativa para macOS que organiza instantaneamente sua Área de Trabalho (Desktop) e pasta Downloads em categorias limpas, estruturadas e produtivas.**
